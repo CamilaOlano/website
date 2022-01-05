@@ -2,22 +2,27 @@
 layout: default.liquid
 
 title: Virto: De-Commerce Solution for Everyone
+published_date: 2022-01-05
+data:
+    author: Qian Che
 is_draft: true
 ---
 
 # This is our first Post!
 
-Cindy is a passionate buyer and a heavy crypto asset holder. Everytime when she wants to go shopping, she wonders why she can't directly pay with her crypto currencies. Currently she could only sell her crypto assets in centralised exchange platform or local exchange platform where funny frauds appear several times. Cindy hates to go through these hassle to utilize cryptos and wonder when she will be able to directly use her cryptos to pay for the bill conveniently and securely.
+Cindy is a passionate buyer and a avid crypto asset holder. Every time when she wants to go shopping, she wonders why she can't directly pay with her crypto currencies. Currently she could only sell her crypto assets in a centralized exchange platform or a local exchange where funny frauds are increasingly common. Cindy hates to go through these hassle to utilize cryptos and wonders when she will be able to directly use her assets to pay for the bill conveniently and securely.
 
-Dan is local dairy farmer and his farm produces high quality milk and dairy products in small scale. He can't easily sell the production at a reasonable price directly to end consumers but only sell to wholesalers in a much cheaper price. Dan is not satisfied with his situation and wants to promote his products directly to local consumers.
+Dan is local dairy farmer and his small farm produces the best milk in in town. He can't easily sell the production at a reasonable price directly to end consumers but only sell to wholesalers in a much cheaper price. Dan is not satisfied with his situation and wants to promote his products directly to local consumers.
 
-From today, people like Cindy and Dan will not be bothered by these inconvenience and problems any more because of **Virto Network**. Virto Network creates a new brilliant solution - **Local Incentives Protocol** by enabling a **De-Commerce** infrastructure with block chain technology:
+From now on, people like Cindy and Dan will not be bothered by their inconveniences any more thanks to **Virto Network**. Virto Network implements a clever solution to giving **utility to cryptocurrencies** and fair **trade without intermediaries**  - the *Local Incentives Protocol* which enables blockchain based **De-Commerce** infrastructure:
 
-- For merchants, they could easily create their own **marketplaces** to directly face and serve consumers and avoid cost of intermediaries. All needed is for builders to simply connect their own system to high level Web2-like APIs offered by Virto 
+- For merchants, they can easily create their own **marketplaces** and directly serve consumers avoiding the extra cost of intermediaries. All needed is for marketplace builders to connect their applications to the familiar Web2-like APIs offered by Virto.
 
-- For users, they could easily use their crpytos to buy any products or services offered by the marketplace, including fiat money. It means, users could not only easily utilise cryptos in exchange for goods, but also this easy swap to fiat provides a bridge between the metaverse and real society. **Swap.Cash**, one of the core team's reference application will be launched soon this year, before that the first testing will be open to users in Karura in the H1 2022.
+- For users, they can conveniently use their crypto assets to buy any products or services offered by the different marketplaces, including trading with fiat money. It means, users could not only, e.g. buy their favorite book, but also easily swap their digital assets for fiat money and back. We believe this makes Virto unique by providing a bridge between the future blockchain metaverses and real society.
 
-Amazon, Ebay, Alibaba these global E-commerce platforms have been steadily increasing in the past decades, which offers opportunities to integrate millions of marketplaces. Meanwhile more and more critics have also arose, especially concentrating on its anti-competitive or monopolistic behaviors, which result in price control, price discrimination and employee management. These however would never be possible in a decentralised system backed up by block chain technology, in contrary, all these missing valuable virtues, **fairness, transparency, efficiency** will be better respected and valued in **De-commerce** system  as it's rooted in the initial design.
+ >  **Swap.Cash**, one of the core team's reference applications will be launched early this year, first using an existing Kusama parachain like Karura before it's finally deployed in Virto Network by Q2 2022.
+
+Amazon, Ebay, Alibaba these global e-commerce platforms have been steadily increasing in the past decades, which offers opportunities to integrate millions of marketplaces. Meanwhile more and more critics have also arose, especially concentrating on their anti-competitive or monopolistic behaviors, which result in price control, price discrimination and employee management. These however would never be possible in a decentralized system backed up by blockchain technology, in contrary, all these missing valuable virtues, **fairness, transparency, efficiency** will be better respected and valued in **de-commerce** systems  as they are rooted in the its design.
 
 In addition, **Local Incentives Protocol** also promotes **DAO: Decentralised Autonomous Organisation** by reserving part of the transaction fees into local tax, which is only at the disposal of local communities formed and governed by the users. This will also help the system fight against resource monopoly within the system and support local economy transformed into **DAO**.
 
