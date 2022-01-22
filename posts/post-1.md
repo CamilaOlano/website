@@ -26,7 +26,7 @@ Amazon, Ebay, Alibaba these global e-commerce platforms have been steadily incre
 
 In addition, **Local Incentives Protocol** also incentives the formations of **Local Communityies** that function as **DAOs: Decentralised Autonomous Organisation** by reserving local tax, which is collected from the transactions and is only at the disposal of the people from the community. The community is governed by its own people. This will also help the system fight against resource monopoly within the system and support local economy.
 
-To know more about Virto Network, Local Incentives Protocol or use it for building marketplaces, please visit the [website](https://virto.network/).
+All the information you need to know more about Virto Network, Local Incentives Protocol or use it for building marketplaces can be found in our [website](https://virto.network/).
 
 
 
